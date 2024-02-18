@@ -33,7 +33,6 @@ body {
   height: 200px;
   border-radius: 50%;
   background: no-repeat url("./assets/sun.png") center/ cover;
-  box-shadow: 0 0 50px 3px orange, 0 0 700px 3px red;
 }
 
 .planet {
